@@ -6,10 +6,10 @@ applying state-of-the-art models in sync with traditional methods such as topic 
 This repository demonstrates a production-ready Topic Modeling pipeline using **BERTopic** and **Ollama**. It features a custom representation model that uses **Llama 3.2** locally to generate human-readable labels for clusters, eliminating API costs and ensuring data privacy.
 
 ## 📌 Project Highlights
-* **LLM Engine:** Local Llama 3.2 via Ollama.
-* **Embeddings:** `thenlper/gte-small` (Top-tier performance/size ratio).
-* **Visualization:** Advanced `DataMapPlot` for static maps and `Plotly` for interactive exploration.
-* **Security:** `Safetensors` implementation for vector storage.
+**LLM Engine:** Local Llama 3.2 via Ollama.
+**Embeddings:** `thenlper/gte-small` (Top-tier performance/size ratio).
+**Visualization:** Advanced `DataMapPlot` for static maps and `Plotly` for interactive exploration.
+**Security:** `Safetensors` implementation for vector storage.
 
 ---
 
